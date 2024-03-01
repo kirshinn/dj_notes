@@ -1,0 +1,5 @@
+.idea/
+venv/
+notes/node_modules/
+*.sqlite3
+*.db
